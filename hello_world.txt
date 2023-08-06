@@ -1,0 +1,2 @@
+What's up, world!
+Testing out the differences between modifying, staging, and committing.

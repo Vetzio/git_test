@@ -1,5 +1,5 @@
 # git_test
-First GitHub repo
-  Woot woot!
+First GitHub repo  
+Woot woot!
 
 Hello Odin!

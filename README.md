@@ -6,4 +6,5 @@ Hello Odin!
 
 | User | Role  |
 | ---- | ----- |
-| Nizar| Vetzio|
+| Nizar | Author |
+| Vetzio | Contributor |

@@ -4,7 +4,13 @@ Woot woot!
 
 Hello Odin!
 
-| User | Role  |
-| ---- | ----- |
-| Nizar | Author |
-| Vetzio | Contributor |
+<table>
+    <tr>
+        <th>User</th>
+        <th>Role</th>
+    </tr>
+    <tr>
+        <td>nizarmah</td>
+        <td>Vetzio</td>
+    </tr>
+</table>

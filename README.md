@@ -10,7 +10,7 @@ Hello Odin!
         <th>Role</th>
     </tr>
     <tr>
-        <td>nizarmah</td>
+        <td><img src="https://avatars.githubusercontent.com/u/5631091?s=48&amp;v=4" alt="@nizarmah" size="24" height="24" width="24" data-view-component="true" class="avatar circle d-inline-block mr-2">nizarmah</td>
         <td>Author</td>
     </tr>
     <tr>

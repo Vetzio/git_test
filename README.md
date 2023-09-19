@@ -11,6 +11,10 @@ Hello Odin!
     </tr>
     <tr>
         <td>nizarmah</td>
+        <td>Author</td>
+    </tr>
+    <tr>
         <td>Vetzio</td>
+        <td>Collaborator</th>
     </tr>
 </table>

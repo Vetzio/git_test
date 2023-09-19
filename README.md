@@ -14,7 +14,7 @@ Hello Odin!
         <td>Author</td>
     </tr>
     <tr>
-        <td>Vetzio</td>
+        <td><img data-test-selector="commits-avatar-stack-avatar-image" src="https://avatars.githubusercontent.com/u/130604688?s=48&amp;v=4" width="24" height="24" alt="@Vetzio" class=" avatar-user">Vetzio</td>
         <td>Collaborator</th>
     </tr>
 </table>

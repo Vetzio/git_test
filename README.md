@@ -2,7 +2,7 @@
 First GitHub repo  
 Woot woot!
 
-Hello Odin!
+Hello <strong>Odin</strong>! :bird:
 
 <table>
     <tr>
